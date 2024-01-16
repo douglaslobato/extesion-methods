@@ -1,0 +1,15 @@
+C:\Users\douglas.cavalcante\source\repos\MetodosExtensao\MetodosExtensao\bin\Debug\net6.0\MetodosExtensao.exe
+C:\Users\douglas.cavalcante\source\repos\MetodosExtensao\MetodosExtensao\bin\Debug\net6.0\MetodosExtensao.deps.json
+C:\Users\douglas.cavalcante\source\repos\MetodosExtensao\MetodosExtensao\bin\Debug\net6.0\MetodosExtensao.runtimeconfig.json
+C:\Users\douglas.cavalcante\source\repos\MetodosExtensao\MetodosExtensao\bin\Debug\net6.0\MetodosExtensao.dll
+C:\Users\douglas.cavalcante\source\repos\MetodosExtensao\MetodosExtensao\bin\Debug\net6.0\MetodosExtensao.pdb
+C:\Users\douglas.cavalcante\source\repos\MetodosExtensao\MetodosExtensao\obj\Debug\net6.0\MetodosExtensao.csproj.AssemblyReference.cache
+C:\Users\douglas.cavalcante\source\repos\MetodosExtensao\MetodosExtensao\obj\Debug\net6.0\MetodosExtensao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.cavalcante\source\repos\MetodosExtensao\MetodosExtensao\obj\Debug\net6.0\MetodosExtensao.AssemblyInfoInputs.cache
+C:\Users\douglas.cavalcante\source\repos\MetodosExtensao\MetodosExtensao\obj\Debug\net6.0\MetodosExtensao.AssemblyInfo.cs
+C:\Users\douglas.cavalcante\source\repos\MetodosExtensao\MetodosExtensao\obj\Debug\net6.0\MetodosExtensao.csproj.CoreCompileInputs.cache
+C:\Users\douglas.cavalcante\source\repos\MetodosExtensao\MetodosExtensao\obj\Debug\net6.0\MetodosExtensao.dll
+C:\Users\douglas.cavalcante\source\repos\MetodosExtensao\MetodosExtensao\obj\Debug\net6.0\refint\MetodosExtensao.dll
+C:\Users\douglas.cavalcante\source\repos\MetodosExtensao\MetodosExtensao\obj\Debug\net6.0\MetodosExtensao.pdb
+C:\Users\douglas.cavalcante\source\repos\MetodosExtensao\MetodosExtensao\obj\Debug\net6.0\MetodosExtensao.genruntimeconfig.cache
+C:\Users\douglas.cavalcante\source\repos\MetodosExtensao\MetodosExtensao\obj\Debug\net6.0\ref\MetodosExtensao.dll
