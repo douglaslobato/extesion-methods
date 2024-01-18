@@ -27,4 +27,12 @@ string converted2 = a.ToStringOrEmpty();
 Console.WriteLine(converted1);
 Console.WriteLine(converted2);
 
+string wordLowerExample = "hello world!";
+wordLowerExample = wordLowerExample.CapitalizeFirstLetter();
+
+Console.WriteLine(wordLowerExample);
+
+int isNumberEven = 2;
+Console.WriteLine(isNumberEven.IsEven());
+
 Console.ReadKey();
