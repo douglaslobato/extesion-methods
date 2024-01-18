@@ -27,5 +27,17 @@ namespace MetodosExtensao
 
             return obj.ToString();
         }
+        public static string CapitalizeFirstLetter(this string input)
+        {
+            if (string.IsNullOrEmpty(input))
+                return input;
+
+            return char.ToUpper(input[0]) + input.Substring(1);
+        }
+
+        public static bool IsEven(this int number)
+        {
+            return number % 2 == 0;
+        }
     }
 }
